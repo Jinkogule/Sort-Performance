@@ -1,4 +1,4 @@
-# Desempenho de ordenações
+# Sorting Performance
 
-Este programa mede o tempo de execução dos algoritmos Bubble Sort, Insertion Sort e Selection Sort, permitindo comparar o desempenho dessas abordagens.
+This program measures the execution time of the Bubble Sort, Insertion Sort, and Selection Sort algorithms, allowing for a comparison of their performance.
 
